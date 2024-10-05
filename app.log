@@ -1,0 +1,11 @@
+2024-10-05 19:26:23,646:INFO:Login successful for email: anand@gmail.com
+2024-10-05 19:26:28,529:INFO:Game search for 'bgmi' returned 9 deals.
+2024-10-05 19:33:05,166:INFO:User registered successfully with email: atul@gmail.com
+2024-10-05 19:33:52,141:INFO:User registered successfully with email: rohit@gmail.com
+2024-10-05 19:34:32,938:INFO:Login successful for email: rohit@gmail.com
+2024-10-05 19:34:38,877:INFO:Game search for 'pubg' returned no deals.
+2024-10-05 19:35:15,462:INFO:Login successful for email: rohit@gmail.com
+2024-10-05 19:35:20,267:INFO:Game search for 'bgmi' returned 9 deals.
+2024-10-05 19:56:51,874:WARNING:Failed password reset due to incorrect security answer for email: rohit@gmail.com
+2024-10-05 19:57:22,142:WARNING:Failed login attempt due to incorrect password for email: rohit@gmail.com
+2024-10-05 19:57:36,235:WARNING:Failed login attempt due to incorrect password for email: rohit@gmail.com
